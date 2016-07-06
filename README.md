@@ -1,2 +1,2 @@
 # coffeespot
-Spotify app designed for ease of use while driving.
+Spotify premium app designed for ease of use while driving.
